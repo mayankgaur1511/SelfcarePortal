@@ -1,0 +1,2 @@
+[Mon Jan 22 13:54:22.734614 2018] [authz_core:error] [pid 12408:tid 1100] [client 10.244.2.136:64445] AH01630: client denied by server configuration: E:/www/vhosts/selfcare-debasish/httpdocs/application/
+[Mon Jan 22 13:54:22.734614 2018] [authz_core:error] [pid 12408:tid 1100] [client 10.244.2.136:64445] AH01630: client denied by server configuration: E:/www/vhosts/selfcare-debasish/httpdocs/system/
