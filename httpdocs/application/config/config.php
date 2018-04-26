@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 
-if(ISSET($_SERVER['HTTP_HOST']) and $_SERVER['HTTP_HOST'])}}{}
+if(ISSET($_SERVER['HTTP_HOST']) and $_SERVER['HTTP_HOST'])
 {
     $config['base_url'] =  "http://" . $_SERVER['HTTP_HOST'];
 }
