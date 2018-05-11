@@ -1,3 +1,3 @@
 <?php
-echo "Hello Openshift1!";
+echo "Hello Openshift!";
 ?>	
